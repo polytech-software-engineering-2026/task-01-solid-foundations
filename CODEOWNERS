@@ -1,0 +1,8 @@
+# Сработает после апгрейда организации до GitHub Team (нужны required reviewers).
+/tests_reference/           @vladefr97
+/.github/                   @vladefr97
+/pyproject.toml             @vladefr97
+/katas/*/task.md            @vladefr97
+/katas/*/engine.py          @vladefr97
+/katas/*/base.py            @vladefr97
+/katas/*/interfaces.py      @vladefr97
